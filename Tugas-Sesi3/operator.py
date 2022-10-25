@@ -1,4 +1,4 @@
-# OPERATOR ARITMATIKA
+# OPERATOR 
 
 #Penjumlahan
 print(13 + 2)
